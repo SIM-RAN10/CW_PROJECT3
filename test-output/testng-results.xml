@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-03T23:18:19 IST" name="Default suite" finished-at="2024-10-03T23:18:34 IST" duration-ms="15002">
+    <groups>
+    </groups>
+    <test started-at="2024-10-03T23:18:19 IST" name="Default test" finished-at="2024-10-03T23:18:34 IST" duration-ms="15002">
+      <class name="apiTesting.Beecaptor">
+        <test-method signature="t1()[pri:0, instance:apiTesting.Beecaptor@55634720]" started-at="2024-10-03T23:18:20 IST" name="t1" finished-at="2024-10-03T23:18:25 IST" duration-ms="5010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t1 -->
+        <test-method signature="t2()[pri:1, instance:apiTesting.Beecaptor@55634720]" started-at="2024-10-03T23:18:25 IST" name="t2" finished-at="2024-10-03T23:18:26 IST" duration-ms="1108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t2 -->
+        <test-method signature="t3()[pri:2, instance:apiTesting.Beecaptor@55634720]" started-at="2024-10-03T23:18:26 IST" name="t3" finished-at="2024-10-03T23:18:27 IST" duration-ms="968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t3 -->
+        <test-method signature="t4()[pri:3, instance:apiTesting.Beecaptor@55634720]" started-at="2024-10-03T23:18:27 IST" name="t4" finished-at="2024-10-03T23:18:28 IST" duration-ms="1083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t4 -->
+        <test-method signature="t5()[pri:4, instance:apiTesting.Beecaptor@55634720]" started-at="2024-10-03T23:18:28 IST" name="t5" finished-at="2024-10-03T23:18:29 IST" duration-ms="1178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t5 -->
+        <test-method signature="t6()[pri:5, instance:apiTesting.Beecaptor@55634720]" started-at="2024-10-03T23:18:29 IST" name="t6" finished-at="2024-10-03T23:18:30 IST" duration-ms="1169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t6 -->
+        <test-method signature="t7()[pri:6, instance:apiTesting.Beecaptor@55634720]" started-at="2024-10-03T23:18:30 IST" name="t7" finished-at="2024-10-03T23:18:31 IST" duration-ms="1147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t7 -->
+        <test-method signature="login()[pri:7, instance:apiTesting.Beecaptor@55634720]" started-at="2024-10-03T23:18:31 IST" name="login" finished-at="2024-10-03T23:18:32 IST" duration-ms="1097" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="token()[pri:8, instance:apiTesting.Beecaptor@55634720]" started-at="2024-10-03T23:18:32 IST" name="token" finished-at="2024-10-03T23:18:34 IST" duration-ms="1189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- token -->
+        <test-method signature="retrieve()[pri:9, instance:apiTesting.Beecaptor@55634720]" started-at="2024-10-03T23:18:34 IST" name="retrieve" finished-at="2024-10-03T23:18:34 IST" duration-ms="928" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- retrieve -->
+      </class> <!-- apiTesting.Beecaptor -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
