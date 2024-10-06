@@ -1,4 +1,8 @@
-![image](https://github.com/user-attachments/assets/2a23e175-c458-4c0c-be51-d5f982958f38)
+
+<div style="text-align: right;">
+    <img src="https://github.com/user-attachments/assets/20117f0b-dc4f-4a3d-9bf5-7a391b1dc279" alt="Example Image" />
+</div>
+
 # Beeceptor JSONPlaceholder APIs
 #### Beeceptor provides a mock server environment that allows developers and testers to simulate API responses without needing a live backend. The JSONPlaceholder APIs offered by Beeceptor serve as a placeholder for typical RESTful interactions, enabling users to perform actions like retrieving posts, creating new entries, updating data, and deleting records. This mock API is particularly useful for testing and validating API calls in a controlled setting, making it an ideal choice for learning API testing with REST Assured.
 
