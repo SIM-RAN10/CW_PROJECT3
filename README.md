@@ -25,6 +25,13 @@
 - **Chrome**
 
 ## Directory Structure
+```bash
+src
+└── test
+    └── java
+        └── apiTesting
+            └── Beeceptor.java
+```
 
 
 
