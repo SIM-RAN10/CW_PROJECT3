@@ -33,5 +33,38 @@ src
             └── Beeceptor.java
 ```
 
+## Application Under Test
+#### AUT URL: https://app.beeceptor.com/mock-server/json-placeholder
+#### BASE URI: https://json-placeholder.mock.beeceptor.com
+
+## Scope
+- List all available blog posts
+- Retrieve a post by passing an integer ID
+- Listing all the blog comments
+- Retrieve a comment by passing and numeric/alphanumeric ID
+- Get a list of all the companies
+- Retrieve details about a company by passing company ID.
+- Get a list of all the users
+- Login example with failed attempt. Use 'fail' keyword in the password.
+- Login the user successfully and generate a JWT token.
+- Default response. Returns metadata about this API.
+
+## REST Assured Installation & Getting Started
+### Step 1: Install Java
+- Download the JDK from Oracle JDK website.
+- Check Java version using: `java -version`.
+### Step 2: Set up Spring IDE with Rest Assured
+- Download Eclipse IDE for Java EE Developers from Eclipse website.
+- Install Spring IDE from Eclipse Marketplace.
+- Create a Maven project in Eclipse.
+- Add Rest Assured dependencies to `pom.xml`.
+### Step 3: Download the project
+- Create a new folder and navigate to it in the command prompt.
+- Clone your Selenium project using Git: `git clone https://github.com/your-username/your-repo.git`.
+### Step 4: Run the Automation Script
+- Open Eclipse, import your cloned project.
+- Set up WebDriver and write your automation script.
+- Run your testng tests to verify setup and functionality.
+## Attachments
 
 
