@@ -35,5 +35,18 @@ pom.xml
 ```
 
 ## Application Under Test
-#### AUT APK: ![Simplenote](https://apkpure.com/simplenote/com.automattic.simplenote)
+#### AUT APK: [Simplenote](https://apkpure.com/simplenote/com.automattic.simplenote)
 ## Scope
+<details>
+  <summary>Features To Be Tested</summary>
+  <li>Launch Application</li>
+  <li>Perform Touch Actions</li>
+  <li>Tap and Click Actions</li>
+  <li>Send Keys</li>
+  <li>Open Notifications</li>
+  <li>Click on Battery Saver</li>
+  <li>Enable and Disable Battery Saver</li>
+  <li>Switch to Another Application</li>
+  <li>Copy Text from Another App</li>
+  <li>Navigate to Home Screen</li>
+</details>
