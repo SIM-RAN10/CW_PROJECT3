@@ -33,3 +33,7 @@ src
             └── Simplenote.java
 pom.xml
 ```
+
+## Application Under Test
+#### AUT APK: ![Simplenote](https://apkpure.com/simplenote/com.automattic.simplenote)
+## Scope
